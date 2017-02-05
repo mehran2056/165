@@ -29,8 +29,7 @@ if msg.to.type == 'channel' and is_momod(msg) then
 ☆دستورات مدیریتی 
 🎗》#modhelp
 
-Join us:
-✔️  @antispamandhack ]]
+
 end
 end
 return {
